@@ -53,7 +53,7 @@ function Details({ product, type, id, history }) {
     }
 
     checkLocalStorage();
-  }, [ingredients]);
+  }, [ingredients, type, id]);
 
   function handleCheck({ target }, index) {
     const { checked, name } = target;
