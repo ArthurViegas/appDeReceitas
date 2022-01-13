@@ -144,7 +144,7 @@
   width: 80%;
 }
 
-@media only screen and ( max-width : 360px ) {
+@media only screen and ( max-width : 400px ) {
 
   .header-div {
     background-color: rgb(226, 226, 226);

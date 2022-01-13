@@ -37,7 +37,7 @@
   outline: none;
 }
 
-@media only screen and ( max-width : 360px ) {
+@media only screen and ( max-width : 400px ) {
 
   .category-container {
     width: 100vw;
