@@ -31,7 +31,7 @@
   outline: none;
 }
 
-@media only screen and ( max-width : 400px ) {
+@media only screen and ( max-width : 500px ) {
 
   .footer-section {
     height: 50px;
